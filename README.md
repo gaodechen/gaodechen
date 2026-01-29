@@ -1,16 +1,17 @@
-## Hi there 👋
+## Welcome!
 
-<!--
-**gaodechen/gaodechen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS PhD Candidate | 🏫 UC Davis | 📨 dechengao at gmail dot com
 
-Here are some ideas to get you started:
+> 🤖 **Research Interests**
+> * Robot learning
+> * Reinforcement learning & imitation learning
+> * World models
+> * Foundation models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am always open to discussions and collaborations on these topics. Feel free to reach out via email. 
+
+| Projects | Websites |
+|---|---|
+| <a href="https://ucd-dare.github.io/VITA/"><img src="https://gaodechen.github.io/assets/img/publication_preview/vita_hidden_pick.gif" width="200"/></a> | <br/>VITA🔗 <a href="https://ucd-dare.github.io/VITA/"></a> |
+| <a href="https://soltanilara.github.io/av-aloha/"><img src="https://github.com/Soltanilara/av-aloha/raw/main/assets/av-aloha.gif" width="200"/></a> | <br/>AV-ALOHA🔗 <a href="https://soltanilara.github.io/av-aloha/"></a> |
+| <a href="https://ucd-dare.github.io/cardreamer.github.io/"><img src="https://ucd-dare.github.io/cardreamer.github.io/static/gifs/camera/right_turn_hard.gif" width="200"/></a> |  <br/>CarDreamer🔗 <a href="https://ucd-dare.github.io/cardreamer.github.io/"></a> |
